@@ -1,0 +1,11 @@
+name: FirstPlugin
+version: 1.0
+main: com.bct.fp.Core
+author: Aussie_Jhawking
+description: First Plugin!
+
+
+commands:
+    fp:
+       usage: /<command>
+       description: My First Plugin!
